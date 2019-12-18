@@ -1,0 +1,6 @@
+E:\workPlace\Cplus-plus-plus-plusBeginning\MetroRoutePlanning\MetroRoutePlanning\bin\Debug\MetroRoutePlanning.exe.config
+E:\workPlace\Cplus-plus-plus-plusBeginning\MetroRoutePlanning\MetroRoutePlanning\bin\Debug\MetroRoutePlanning.exe
+E:\workPlace\Cplus-plus-plus-plusBeginning\MetroRoutePlanning\MetroRoutePlanning\bin\Debug\MetroRoutePlanning.pdb
+E:\workPlace\Cplus-plus-plus-plusBeginning\MetroRoutePlanning\MetroRoutePlanning\obj\Debug\MetroRoutePlanning.csprojAssemblyReference.cache
+E:\workPlace\Cplus-plus-plus-plusBeginning\MetroRoutePlanning\MetroRoutePlanning\obj\Debug\MetroRoutePlanning.exe
+E:\workPlace\Cplus-plus-plus-plusBeginning\MetroRoutePlanning\MetroRoutePlanning\obj\Debug\MetroRoutePlanning.pdb
